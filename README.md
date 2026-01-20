@@ -31,6 +31,7 @@ This wargame explores various web application security concepts, including but n
 - Server-side misconfigurations
 
 ## Repository Structure
+```text
 overthewire-natas/
 ├── README.md
 ├── natas/
