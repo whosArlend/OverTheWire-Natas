@@ -35,8 +35,8 @@ This wargame explores various web application security concepts, including but n
 overthewire-natas/
 ├── README.md
 ├── natas/
-│   ├── level-00.md
 │   ├── level-01.md
 │   ├── level-02.md
+│   ├── level-03.md
 │   └── ...
 └── notes.md
